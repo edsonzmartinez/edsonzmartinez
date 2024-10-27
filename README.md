@@ -4,6 +4,8 @@
 - 📫 You can reach me via email: edson@fmrp.usp.br
 - :earth_americas: Brazil
 
+![](https://komarev.com/ghpvc/?username=edsonzmartinez)
+
 <!---
 edsonzmartinez/edsonzmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

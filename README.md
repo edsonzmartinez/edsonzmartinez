@@ -5,6 +5,7 @@
 - :earth_americas: Brazil
 
 ![](https://komarev.com/ghpvc/?username=edsonzmartinez)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=FFFF00)
 
 <!---
 edsonzmartinez/edsonzmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

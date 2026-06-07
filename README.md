@@ -7,6 +7,18 @@
 ![](https://komarev.com/ghpvc/?username=edsonzmartinez)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=FFFF00)
 
+`epiDeaths` package:
+
+<!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/epiDeaths)](https://CRAN.R-project.org/package=epiDeaths)
+[![](https://cranlogs.r-pkg.org/badges/epiDeaths)](https://cran.rstudio.com/web/packages/epiDeaths/index.html)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/epiDeaths)](https://cran.r-project.org/package=epiDeaths)
+
+<!-- badges: end -->
+
+
 <!---
 edsonzmartinez/edsonzmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
